@@ -6,8 +6,8 @@ Lista dos desafios propostos e resolvidos durante o BootCamp
 
 - Módulo 02: Qualidade do Vinho
 
-- Módulo 03: Reconhecento números manuscritos
+- Módulo 03: Reconhecendo números manuscritos
 
 - Módulo 04: Reconhecimento de Flores
 
-- Módulo 05: Quais as caractéristicas dos carros?
+- Módulo 05: Quais as características dos carros?
